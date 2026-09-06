@@ -24,7 +24,8 @@
 * SCSS Everyhere (CSS用工具)
 * Power Mode (寫程式小東西)
 * Eslint (自動排版美化用)
-
+* GitLens — Git supercharged (配合Git圖形化工具)
+  
 ##### 先建立資料夾開啟專案放置
 * 樹狀資料架構下與檔案總管同步(選信任)
 * 多項專案需要多開 VS code對應專案
