@@ -42,5 +42,17 @@
 
 ##### JavaScript 網頁腳本語言
 
+##### JavaScript 網頁腳本語言
+
 * 教材 [洛奇的邪惡組織手札] https://summer10920.github.io/
+* React(Meta開發), Vue(閹割版Angular), Angular(Google發展) 三大主流應用框架
+* 可用 Google Trends(趨勢) 進行比較，框架等於訂定規則主要是為了維護控制。
+* "! Enter" 自動快速補上 html 語法 "Emmet" 通常內建就有基本語法提示。失效可以按 Ctrl + Space。
+* VS code 右下角 使用 live server 預設 5500埠，存檔即可刷新現有頁面。以右鍵open live Sever開啟頁面。
+* F12 查看 Response 網路<Network>吐回來的文件，所以可以有多份JS文件。
+* F12 下 console 要求做甚麼動作，可以做加減乘除運算。預設 undefined行為。瀏覽器是可以被呼叫的程式。
+* // 註解 > 忽略文字內容不會執行，Ctrl + ? 快速註解。/* 多行註解 */。
+* html 註解 <!-- "網頁編輯註解" -->
+* Math (內含許多運算函數)可用
+* script  想寫在哪裡都可以，但要注意如有操作DOM，要放在 body最後面或者等到DOM讀完才可以操作(依順序)。
 
